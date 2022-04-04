@@ -1,5 +1,7 @@
 # purdue-bsee
+
 ## Projects
+
 ### ECE 20007 Electical Engineering Fundamentals Lab I
 #### Utilizing Passive Filters in an Audio Equalizer
 Report documenting the design, creation, and testing of an audio equalizer. Utilizes first-order frequency filters, buffers, and operational amplifiers to filter audio into three channels that can be individually amplified and then recombined.
@@ -7,7 +9,13 @@ Report documenting the design, creation, and testing of an audio equalizer. Util
 ### ENGL 10600 Introductory Composition
 #### Digital Portfolio
 A compilation of the work completed throughout the semester, including drafts, feedback, revisions, and reflections. Showcases the development of written communication skills and adaptation of those skills in various contexts.
+
+### ENGR 13200 
+#### NaturalCatalysts Enzyme Analysis Technical Brief
+Technical brief documenting the analysis of enzyme effectiveness data provided by the fictional client Natural Catalysts. Showcases the use of linearization techniques and parameter identification to develop an algorithm to determine the fastest acting stain-removing enzyme. Analysis was primarily completed using MATLAB.
+
 ## Courses Taken
+
 ### Fall 2020
 CHM 11500 General Chemistry
 
