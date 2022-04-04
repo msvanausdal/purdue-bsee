@@ -12,7 +12,7 @@ A compilation of the work completed throughout the semester, including drafts, f
 
 ### ENGR 13200 
 #### NaturalCatalysts Enzyme Analysis Technical Brief
-Technical brief documenting the analysis of enzyme effectiveness data provided by the fictional client Natural Catalysts. Showcases the use of linearization techniques and parameter identification to develop an algorithm to determine the fastest acting stain-removing enzyme. Analysis was primarily completed using MATLAB.
+Team-based technical brief documenting the analysis of enzyme effectiveness data provided by the fictional client Natural Catalysts. Showcases the use of linearization techniques and parameter identification to develop an algorithm to determine the fastest acting stain-removing enzyme. Analysis was primarily completed using MATLAB.
 
 ## Courses Taken
 
