@@ -1,6 +1,11 @@
 # purdue-bsee
 ## Projects
+### ECE 20007 Electical Engineering Fundamentals Lab I
+#### Utilizing Passive Filters in an Audio Equalizer
+
+
 ### ENGL 10600 Introductory Composition
+#### Digital Portfolio
 A compilation of the work completed throughout the semester, including drafts, feedback, revisions, and reflections. Showcases the development of written communication skills and adaptation of those skills in various contexts.
 ## Courses Taken
 ### Fall 2020
