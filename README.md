@@ -1,4 +1,7 @@
 # purdue-bsee
+## Projects
+### ENGL 10600 Introductory Composition
+A compilation of the work completed throughout the semester, including drafts, feedback, revisions, and reflections. Showcases the development of written communication skills and adaptation of those skills in various contexts.
 ## Courses Taken
 ### Fall 2020
 CHM 11500 General Chemistry
