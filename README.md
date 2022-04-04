@@ -2,7 +2,7 @@
 ## Projects
 ### ECE 20007 Electical Engineering Fundamentals Lab I
 #### Utilizing Passive Filters in an Audio Equalizer
-
+Report documenting the design, creation, and testing of an audio equalizer. Utilizes first-order frequency filters, buffers, and operational amplifiers to filter audio into three channels that can be individually amplified and then recombined.
 
 ### ENGL 10600 Introductory Composition
 #### Digital Portfolio
