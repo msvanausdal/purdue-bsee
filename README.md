@@ -63,6 +63,7 @@ ECE 27000 Introduction to Digital System Design
 
 MA 26600 Ordinary Differential Equations
 
-#License
+# License
 The works in this repository are licensed under the MIT License
+
 Copyright (c) 2020-2022 Matthew Van Ausdal
